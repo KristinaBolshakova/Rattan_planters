@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contactsButton">Контакты</string>
+    <string name="cartButton">Корзина</string>
+    <string name="contacts">Контакты</string>
+    <string name="forMainPage">На главную</string>
+    <string name="name">Екатерина</string>
+    <string name="name_phone">Телефон</string>
+    <string name="rattan_planters_gmail_com">Rattan_planters@gmail.com</string>
+    <string name="e_mail">e-mail:</string>
+    <string name="_7_950_000_00_00">+7 (950) 000 - 00 - 00</string>
+    <string name="socialpage">Социальные сети:</string>
+</resources>
